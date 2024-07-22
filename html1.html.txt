@@ -1,0 +1,11 @@
+<html>
+<head></head>
+<body>
+
+<p3>this is day3 class for html for 19r<p>
+
+<a href="http://www.instagram.com/" target="-blank">Instagram</a>
+<a href="http://www.zomzto.com">zomato</a>
+
+</body>
+</html>
